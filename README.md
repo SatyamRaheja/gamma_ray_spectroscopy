@@ -8,3 +8,18 @@ Important modules like pre-amplifier, pulse shaping amplifier (CR-RC), Noise Ana
 The prime objective of this project is to prepare a prerequisite understanding about Gamma Ray Spectroscopy which will be accessible to everyone. The detectors and different modules used in the following study are very costly and thus may not be accessible for all the students. 
 
 In the world of online facilities, this step of visualization through programming languages will have a greater reach and thus will be useful to provide better understanding to a beginner.
+
+Tools and Techniques used in Gamma Ray Spectroscopy
+Aim
+To prepare a prerequisite understanding about Gamma Ray Spectroscopy which will be accessible to everyone. The detectors and different modules used in the following study are very costly and thus may not be accessible for all the students. In the world of online facilities, this step of visualization through programming languages will have a greater reach and thus will be useful to provide better understanding to a beginner.
+
+Signal Processing Modules to be discussed
+Preamplifier
+
+Shaping Amplifier (CR-RC)
+
+Noise Analysis
+
+Constant Fraction Discriminator
+
+Analog to Digital Converter
